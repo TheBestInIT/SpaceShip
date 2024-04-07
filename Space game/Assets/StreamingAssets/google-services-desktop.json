@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "584443635672",
+    "project_id": "space-game-b6986",
+    "storage_bucket": "space-game-b6986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584443635672:ios:236c5f013187a136bf74ad",
+        "android_client_info": {
+          "package_name": "DefaultCompany"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtERISBP2trV6xclZ9BwcFHSuVhLcwFqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
